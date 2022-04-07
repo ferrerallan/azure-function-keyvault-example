@@ -2,7 +2,7 @@
 Simple example of Azure Function accessing a keyvault
 
 # Requirements
--You need to have a free account of Azure
+- You need to have a free account of Azure
 -Create a key secret for the desired value. For instance.. database connections, api
 -Add Packages to use vault:
 dotnet add package Azure.Identity
