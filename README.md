@@ -19,4 +19,4 @@ dotnet add package Azure.Extensions.AspNetCore.Configuration.Secrets
 - Register an application in App registration to get TenantID and clientID
 - Give permission to application access this configuration.
 Go to Keyvault=>Access policies
-- Choose Secret Management
+
